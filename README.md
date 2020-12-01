@@ -2,7 +2,7 @@
 
 ## BeautyWeb 介紹
 ```
-該專案是採用javascript所製作
+該專案是採用Bootstrap4 & javascript所製作
 ```
 
 ### DEMO
