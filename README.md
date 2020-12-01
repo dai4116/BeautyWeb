@@ -2,7 +2,7 @@
 
 ## BeautyWeb 介紹
 ```
-該專案是採用Bootstrap4 & javascript所製作
+該專案是採用Vue Cli3 所製作
 ```
 
 ### DEMO
@@ -12,7 +12,7 @@ https://dai4116.github.io/1008_js-web/index.html
 
 ### 簡介
 ```
-此作品javascript前端練習，其主要功能有以下:
+此作品為 Vue Cli 前端練習，其主要功能有以下:
 
 ∙ 搜尋功能
 ∙ 有無熱門推薦
@@ -21,6 +21,7 @@ https://dai4116.github.io/1008_js-web/index.html
 
 ### 使用技術 & 練習技術
 ```
+∙ Vue Cli 3
 ∙ RWD
 ∙ Bootstrap4
 ∙ jQuery
