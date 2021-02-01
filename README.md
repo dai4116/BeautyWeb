@@ -7,7 +7,7 @@
 
 ### DEMO
 ```
-https://dai4116.github.io/1008_js-web/index.html
+https://dai4116.github.io/BeautyWeb-vue/index
 ```
 
 ### 簡介
@@ -17,6 +17,7 @@ https://dai4116.github.io/1008_js-web/index.html
 ∙ 搜尋功能
 ∙ 有無熱門推薦
 ∙ 有無購買連結
+∙ 不跳頁點擊各項商品
 ```
 
 ### 使用技術 & 練習技術
@@ -26,6 +27,7 @@ https://dai4116.github.io/1008_js-web/index.html
 ∙ Bootstrap4
 ∙ jQuery
 ∙ JavaScript(ES6等)
+∙ AJAX獲取JSON資料
 ∙ sketch
 ```
 
